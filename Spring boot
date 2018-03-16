@@ -20,3 +20,19 @@ https://thepracticaldeveloper.com/2017/12/11/dockerize-spring-boot/
 
 
 https://blog.docker.com/2017/05/spring-boot-development-docker/
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Hiding Password in properties file
+*********************************
+
+https://stackoverflow.com/questions/37404703/spring-boot-how-to-hide-passwords-in-properties-file
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Useful jars
+*******************
+
+Lambok ------To avoid boiler plates
