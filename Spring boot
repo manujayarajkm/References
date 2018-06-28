@@ -75,5 +75,18 @@ https://stackoverflow.com/questions/13154818/how-to-define-a-jpa-repository-quer
 
 https://www.springbyexample.org/examples/spring-data-jpa-repository.html
 
+http://www.java2s.com/Tutorials/Java/JPA/4740__JPA_Query_Left_Join.htm
+
+https://lishman.io/spring-data-jpa-configuration
+
+https://www.mkyong.com/spring-boot/spring-boot-spring-data-jpa-oracle-example/
+
+https://stackoverflow.com/questions/38672900/how-to-manage-database-connection-pool-in-spring-jpa
+
+https://dzone.com/articles/database-connection-pooling-in-java-with-hikaricp
+
+https://stackoverflow.com/questions/26490967/how-do-i-configure-hikaricp-in-my-spring-boot-app-in-my-application-properties-f/28439685
+
+https://stackoverflow.com/questions/25709976/spring-boot-spring-data-how-are-hibernate-sessions-managed
 
 
