@@ -36,3 +36,15 @@ Router
 **********
 
 https://reacttraining.com/react-router/core/guides/redux-integration
+
+Protect Routes
+*****************
+
+https://codedaily.io/tutorials/49/Create-a-ProtectedRoute-for-Logged-In-Users-with-Route-Redirect-and-a-Render-Prop-in-React-Router
+https://stackoverflow.com/questions/56100726/react-how-can-i-prevent-going-back-to-login-page-after-login
+https://scotch.io/courses/using-react-router-4/authentication-with-redirect
+https://tylermcginnis.com/react-router-protected-routes-authentication/
+https://github.com/react-navigation/react-navigation/issues/1815
+https://jasonwatmore.com/post/2019/02/01/react-role-based-authorization-tutorial-with-example
+
+
