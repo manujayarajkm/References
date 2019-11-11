@@ -22,3 +22,12 @@ for checking only no or 2 nos seperated by hyphen(-)
 RegEx
 
 // ^[0-9]+-[0-9]+$|^[0-9]+$
+
+
+
+
+
+
+
+
+invariant,lazy,suspense,jwt,saga injector,reducer injector,connected-react-router,file-saver,flow-bin,highlight.js,redux-immutable,reselect
