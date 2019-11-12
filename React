@@ -71,3 +71,13 @@ Dynamic Reducers
 *******************
 https://tylergaw.com/articles/dynamic-redux-reducers/
 https://redux.js.org/recipes/code-splitting
+
+
+Dispatch action on route change
+**********************************
+https://stackoverflow.com/questions/37406584/react-router-redux-dispatch-an-async-action-on-route-change
+https://github.com/acdlite/redux-router
+https://github.com/reduxjs/redux/issues/227
+https://blog.marvelapp.com/managing-the-url-in-a-redux-app/
+https://medium.com/codecademy-engineering/react-router-to-redux-first-router-2fea05c4c2b7
+https://ruddra.com/posts/control-application-flow-from-redux-middleware/
