@@ -25,7 +25,10 @@ RegEx
 
 
 
-
+VS Code Extensions
+*************************
+Git Lens
+Import Cost
 
 
 
