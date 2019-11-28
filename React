@@ -115,3 +115,10 @@ https://www.skptricks.com/2018/12/how-to-implement-auto-logout-client-side-in-re
 https://blog.bitsrc.io/how-to-implement-idle-timeout-in-react-830d21c32942
 https://www.appfoundry.be/blog/session-management-in-react-single-page-applications
 https://www.kirupa.com/html5/detecting_if_the_user_is_idle_or_inactive.htm
+
+
+Online or Offline
+*******************
+https://www.npmjs.com/package/react-detect-offline
+https://davidwalsh.name/detecting-online
+https://stackoverflow.com/questions/40248639/detect-network-connection-in-react-redux-app-if-offline-hide-component-from-u
