@@ -34,3 +34,10 @@ Import Cost
 
 
 invariant,lazy,suspense,jwt,saga injector,reducer injector,connected-react-router,file-saver,flow-bin,highlight.js,redux-immutable,reselect
+
+Dynamic Props
+*****************
+
+	const newProps = Object.assign({}, props);
+
+	[ 'header', 'content' ].forEach((e) => delete newProps[e]);
