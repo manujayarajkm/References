@@ -43,4 +43,8 @@ TypeScript
 https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407
 https://wanago.io/2019/01/14/express-postgres-relational-databases-typeorm/
 https://sequelize.org/master/manual/typescript.html
+https://www.npmjs.com/package/typeorm
+https://michalzalecki.com/using-sequelize-with-typescript/
+https://www.npmjs.com/package/deep-equal
+https://github.com/RobinBuschmann/sequelize-typescript-example
 
