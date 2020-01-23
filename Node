@@ -49,3 +49,14 @@ https://www.npmjs.com/package/deep-equal
 https://github.com/RobinBuschmann/sequelize-typescript-example
 http://rousseau-alexandre.fr/en/programming/2019/06/19/express-typescript.html
 
+IOC
+****
+https://itnext.io/typescript-dependency-injection-setting-up-inversifyjs-ioc-for-a-ts-project-f25d48799d70
+https://dev.to/aligoren/developing-an-express-application-using-typescript-3b1
+
+AWS Lambda design patterns
+*****************************
+https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
+https://thenewstack.io/serverless-architecture-five-design-patterns/
+
+
