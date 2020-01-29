@@ -68,5 +68,6 @@ https://typeorm.io/#/
 passport-jwt
 **************
 https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport
+https://jonathas.com/token-based-authentication-in-nodejs-with-passport-jwt-and-bcrypt/
 
 
