@@ -65,4 +65,8 @@ typeorm
 *********
 https://typeorm.io/#/
 
+passport-jwt
+**************
+https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport
+
 
